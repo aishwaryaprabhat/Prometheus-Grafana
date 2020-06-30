@@ -15,7 +15,12 @@ Temperature |location=outside | 90
 - It is written in Go
 
 ## How does Prometheus work?
+![](images/Screenshot%202020-06-30%20at%201.18.56%20PM.png)
+- Prometheus collects metrics from monitored targets by scraping metrics HTTP endpoints
 
+## Simple Installation Instructions on a Docker Container
+- `docker run -t -i ubuntu /bin/bash`
+- 
 
 
 

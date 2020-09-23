@@ -26,7 +26,7 @@ Temperature |location=outside | 90
 - Every time series is identified by metric name and labels (key value pairs)
 - The time series data also consists of samples which can be float64 or ms time stamp
 - Notation: `<metric-name>{<key>=<value>, <key2>=<value2>,...}`
-
+- GQL used
 
 
 
